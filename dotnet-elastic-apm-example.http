@@ -1,0 +1,6 @@
+@dotnet_elastic_apm_example_HostAddress = http://localhost:5181
+
+GET {{dotnet_elastic_apm_example_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
